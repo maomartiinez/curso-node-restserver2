@@ -6,4 +6,4 @@ module.exports = {
     ...validaCampos,
     ...validaJWT,
     ...validaRoles
-}
+};
